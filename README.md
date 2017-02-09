@@ -8,5 +8,16 @@ What Is Their IP website script
 4. When a tracking-link gets opened, emails is sent to the owner.
 
 # Pages
-1. Home: form with owner email.
+1. Home: form with owner email.t
 2. View Link: tracking-link with some hints and tracking status.
+
+# Translation
+Website will be translated to multiple langauges
+
+# Used
+* Yaoman
+* GUlp
+* RequireJs
+* Angular
+* Mongodb
+* Mailgun
